@@ -2,7 +2,7 @@
 
 ### Welcome! ###
 
-For now it is just one presentation but hopefully it will be more in the future ;) I hope you enjoyed it.
+For now it is just one presentation but hopefully there will be more in the future ;) I hope you enjoyed it.
 
 Presentations:
 
